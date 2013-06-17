@@ -12,5 +12,4 @@ r-likert-results
 	Group, Question, "Strongly Disagree", Disagree, Neutral, Agree ,"Strongly Agree"  
 	User, This is a question, 1, 3, 2, 4, 5
 
-<pre><code>Usage: 
-</code./r-likert.sh r-likert.R survey-results.csv></pre>
+<pre><code>Usage: ./r-likert.sh r-likert.R survey-results.csv</code></pre>
