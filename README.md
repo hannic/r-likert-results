@@ -16,4 +16,4 @@ r-likert-results
 
 ![Example](https://github.com/hannic/r-likert-results/blob/master/script/test.png "Likert scale")
 
-![My image](hannic.github.com/r-likert-results/blob/master/script/test.png)
+
