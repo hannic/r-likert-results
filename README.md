@@ -14,4 +14,4 @@ r-likert-results
 
 <pre><code>Usage: ./r-likert.sh r-likert.R survey-results.csv</code></pre>
 
-![alt tag](https://github.com/hannic/r-likert-results/blob/master/script/test.eps)
+![alt tag](https://github.com/hannic/r-likert-results/blob/master/script/test.png)
