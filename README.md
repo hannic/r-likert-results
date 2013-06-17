@@ -14,8 +14,6 @@ r-likert-results
 
 <pre><code>Usage: ./r-likert.sh r-likert.R survey-results.csv</code></pre>
 
-* This is an [example results](https://github.com/hannic/r-likert-results/blob/master/script/test.png/ "Example") likert plot. 
-
-![Alt Example](https://github.com/hannic/r-likert-results/blob/master/script/test.png "Likert scale")
+* This is an [example survey results](https://github.com/hannic/r-likert-results/blob/master/script/test.png/ "Example") as a Likert plot. 
 
 
