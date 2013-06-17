@@ -1,10 +1,8 @@
 r-likert-results
 ================
 
-# This is an H1 #
+## Bash script to generate with R the results of a Likert scale survey. ##
 
-
-Bash script to generate with R the results of a Likert scale survey. 
 
 * Plots a likert scale graphic with csv - file
 	- groups items together according to "Group"
@@ -14,4 +12,5 @@ Bash script to generate with R the results of a Likert scale survey.
 	Group, Question, "Strongly Disagree", Disagree, Neutral, Agree ,"Strongly Agree"  
 	User, This is a question, 1, 3, 2, 4, 5
 
-* Usage: ./r-likert.sh r-likert.R survey-results.csv
+<pre><code>Usage: 
+</code./r-likert.sh r-likert.R survey-results.csv></pre>
