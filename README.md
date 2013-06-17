@@ -1,6 +1,9 @@
 r-likert-results
 ================
 
+# This is an H1 #
+
+
 Bash script to generate with R the results of a Likert scale survey. 
 
 * Plots a likert scale graphic with csv - file
