@@ -1,0 +1,15 @@
+Group,Code,Question,strongly disagree,disagree,neither,agree,strongly agree,total
+Developer,U2,I'm interested in the usability of my API,1,0,2,15,28,46
+Developer,U2,I'm interested in which API methods are called,1,5,2,19,19,46
+Developer,U1,I'm interested if people migrate to the latest version of my library,1,1,13,17,14,46
+Developer,U2,I'm interested unused methods and functionalities,1,3,14,16,12,46
+Developer,U4,I'm interested how often a method gets called,1,9,7,19,10,46
+Developer,U4,I'm interested API failures statistics,3,6,8,17,10,44
+Developer,U4,I'm interested what parameters the methods pass,2,8,11,17,7,45
+Developer,U2,I'm interested the order in which the API methods are called,2,16,14,11,3,46
+Developer,U5,I need to know if users follow the coding conventions I set.,1,8,10,8,3,30
+User,U1,I'd like to know what people built with my framework.,0,0,5,26,15,46
+User,U1,I want to know the number of downloads.,1,5,10,16,14,46
+User,U1,I am curious who tracks my project.,2,5,7,22,10,46
+User,U1,I'd like to collect all my depending downstream projects.,4,8,16,12,5,45
+User,U3,I track the clones of my framework to see what others do with it.,6,13,11,11,5,46
