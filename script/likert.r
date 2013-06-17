@@ -10,7 +10,7 @@ dat<-dat[-c(2)] # ohne Code
 
 postscript(file="test.eps", height=6, width=12)
 
-likert(Question ~ .| Group, data=dat,main="Upstream Developer and their Information Needs", xlab="No. of Responses", ylab="",
+likert(Question ~ .| Group, data=dat,main="Your research's survey title", xlab="No. of Responses", ylab="",
 par.ylab.text = list(font=1,face=1,fontfamily="serif"), scales=list(
          y=list(      
            labels=colnames(rev(dat[[2]])),
