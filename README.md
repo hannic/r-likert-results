@@ -13,3 +13,5 @@ r-likert-results
 	User, This is a question, 1, 3, 2, 4, 5
 
 <pre><code>Usage: ./r-likert.sh r-likert.R survey-results.csv</code></pre>
+
+[id]: https://github.com/hannic/r-likert-results/blob/master/script/test.eps "Example Output"
