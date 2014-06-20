@@ -1,7 +1,7 @@
 r-likert-results
 ================
 
-### Bash script to generate with R the results of a Likert scale survey. ###
+### Bash Script to generate the results of a Likert scale survey with R. ###
 
 
 * Plots a likert scale graphic with csv - file
