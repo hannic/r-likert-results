@@ -1,3 +1,4 @@
+Plot Results from Likert scale survey
 r-likert-results
 ================
 
