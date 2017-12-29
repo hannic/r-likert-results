@@ -15,7 +15,7 @@ r-likert-results
 <pre><code>Usage: ./r-likert.sh r-likert.R survey-results.csv</code></pre>
 
 * This is an example survey results as a Likert plot: 
-[![Alt text](https://raw.github.com/hannic/r-likert-results/master/script/test.png)](https://raw.github.com/hannic/r-likert-results/master/script/test.png=150x)
+[![Alt text](https://raw.github.com/hannic/r-likert-results/master/script/test.png =150x)](https://raw.github.com/hannic/r-likert-results/master/script/test.png)
 
 
 * This is an [example survey results](https://raw.github.com/hannic/r-likert-results/master/script/test.pdf "Example") as a Likert plot. 
