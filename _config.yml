@@ -1,0 +1,8 @@
+title: Plot Results from Likert scale survey
+description: "Bash script to generate with R the results of a Likert scale survey. "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
