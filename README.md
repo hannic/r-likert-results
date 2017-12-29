@@ -16,6 +16,6 @@ r-likert-results
 
 * This is an [example survey results](https://raw.github.com/hannic/r-likert-results/master/script/test.pdf "Example") as a Likert plot. 
 
-
+[![Alt text](/r-likert-results/script/test.png)](http://example.net/)
 
 
