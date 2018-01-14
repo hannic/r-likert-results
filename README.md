@@ -1,4 +1,4 @@
-# R-likert-results - Plot Results from Likert scale survey
+# R-likert-results - Ploting Results from Likert scale survey
 
 ### Bash Script to generate the results of a Likert scale survey with R. ###
 
