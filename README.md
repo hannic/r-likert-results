@@ -1,9 +1,9 @@
-# R-likert-results - Ploting Results from Likert scale survey
+# R-likert-results - Ploting Results from a Likert scale survey
+Present your survey results with a nice graphic!
 
 ### Bash Script to generate the results of a Likert scale survey with R. ###
 
-
-* Plots a likert scale graphic with csv - file
+* Plots a Likert scale graphic with csv - file
 	- groups items together according to "Group"
 	- generates an eps graphic
 	
