@@ -1,6 +1,12 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&logo=github&label=Watch)
 [![Inline docs](http://inch-ci.org/github/hannic/r-likert-results.svg?branch=master)](http://inch-ci.org/github/hannic/r-likert-results)
 
+
+https://img.shields.io/github/stars/dstructs/matrix.svg?style=social&label=Star&link=https://github.com/dstructs/matrix&link=https://github.com/dstructs/matrix/stargazers
+
+
+https://img.shields.io/github/stars/hannic/r-likert-results.svg?style=social&label=Star&link=https://github.com/hannic/r-likert-results&link=https://github.com/hannic/r-likert-results/stargazers
+
 # R-likert-results - Ploting Results from a Likert scale survey
 Present your survey results with a nice graphic!
 
