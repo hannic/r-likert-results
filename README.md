@@ -1,5 +1,5 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&logo=github&label=Watch)
-![Bintray](https://img.shields.io/bintray/v/asciidoctor/maven/asciidoctorj.svg?maxAge=2592000)](https://bintray.com/blocke/releases/scalajack).
+
 
 # R-likert-results - Ploting Results from a Likert scale survey
 Present your survey results with a nice graphic!
