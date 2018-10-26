@@ -4,7 +4,7 @@
 ![GitHub watchers](https://img.shields.io/github/stars/hannic/r-likert-results.svg?style=social&label=Star&link=https://github.com/hannic/r-likert-results&link=https://github.com/hannic/r-likert-results/stargazers)
 ![GitHub watchers](https://img.shields.io/github/watchers/hannic/r-likert-results.svg?style=social&label=Watch&link=https://github.com/hannic/r-likert-results&link=https://github.com/hannic/r-likert-results/watchers)
 [![Inline docs](http://inch-ci.org/github/hannic/r-likert-results.svg?branch=master)](http://inch-ci.org/github/hannic/r-likert-results)
-![GitHub watchers](https://ghbtns.com/github-btn.html?user=hannics&repo=r-likert-results&type=watch&count=true)
+![GitHub watchers](https://ghbtns.com/github-btn.html?user=hannics&repo=r-likert-results&type=watch&count=true)(https://ghbtns.com/github-btn.html?user=hannics&repo=r-likert-results&type=watch&count=true)
 
 Present your survey results with a nice graphic!
 
