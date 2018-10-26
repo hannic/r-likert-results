@@ -4,19 +4,6 @@
 ![GitHub watchers](https://img.shields.io/github/stars/hannic/r-likert-results.svg?style=social&label=Star&link=https://github.com/hannic/r-likert-results&link=https://github.com/hannic/r-likert-results/stargazers)
 ![GitHub watchers](https://img.shields.io/github/watchers/hannic/r-likert-results.svg?style=social&label=Watch&link=https://github.com/hannic/r-likert-results&link=https://github.com/hannic/r-likert-results/watchers)
 [![Inline docs](http://inch-ci.org/github/hannic/r-likert-results.svg?branch=master)](http://inch-ci.org/github/hannic/r-likert-results)
-![GitHub watchers](https://ghbtns.com/github-btn.html?user=hannics&repo=r-likert-results&type=watch&count=true)
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-{::nomarkdown}
-<!-- HTML CODE-->
-<iframe width="60" height="15" src="https://ghbtns.com/github-btn.html?user=hannics&repo=r-likert-results&type=watch&count=true" frameborder="0" allowfullscreen></iframe>
-{:/}
-
 
 Present your survey results with a nice graphic!
 
