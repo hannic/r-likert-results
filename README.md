@@ -1,5 +1,5 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&logo=github&label=Watch)
-[![Inline docs](http://inch-ci.org/github/hannic/r-likert-results.svg?branch=master)](http://inch-ci.org/github/{hannic/r-likert-results)
+[![Inline docs](http://inch-ci.org/github/hannic/r-likert-results.svg?branch=master)](http://inch-ci.org/github/hannic/r-likert-results)
 
 # R-likert-results - Ploting Results from a Likert scale survey
 Present your survey results with a nice graphic!
