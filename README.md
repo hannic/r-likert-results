@@ -1,13 +1,10 @@
+# R-likert-results - Ploting Results from a Likert scale survey
 
 <!--![GitHub watchers](https://img.shields.io/github/stars/dstructs/matrix.svg?style=social&label=Star&link=https://github.com/dstructs/matrix&link=https://github.com/dstructs/matrix/stargazers)-->
-
 ![GitHub watchers](https://img.shields.io/github/stars/hannic/r-likert-results.svg?style=social&label=Star&link=https://github.com/hannic/r-likert-results&link=https://github.com/hannic/r-likert-results/stargazers)
-
 ![GitHub watchers](https://img.shields.io/github/watchers/hannic/r-likert-results.svg?style=social&label=Watch&link=https://github.com/hannic/r-likert-results&link=https://github.com/hannic/r-likert-results/watchers)
-
 [![Inline docs](http://inch-ci.org/github/hannic/r-likert-results.svg?branch=master)](http://inch-ci.org/github/hannic/r-likert-results)
 
-# R-likert-results - Ploting Results from a Likert scale survey
 Present your survey results with a nice graphic!
 
 ### Bash Script to generate the results of a Likert scale survey with R. ###
