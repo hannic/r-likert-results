@@ -6,7 +6,7 @@
 [![Inline docs](http://inch-ci.org/github/hannic/r-likert-results.svg?branch=master)](http://inch-ci.org/github/hannic/r-likert-results)
 ![GitHub watchers](https://ghbtns.com/github-btn.html?user=hannics&repo=r-likert-results&type=watch&count=true)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Onv9nhPIBp0" frameborder="0" allowfullscreen> </iframe>
+<iframe width="60" height="15" src="https://ghbtns.com/github-btn.html?user=hannics&repo=r-likert-results&type=watch&count=true" frameborder="0" allowfullscreen></iframe>
 
 
 Present your survey results with a nice graphic!
