@@ -7,11 +7,8 @@
 ![GitHub watchers](https://ghbtns.com/github-btn.html?user=hannics&repo=r-likert-results&type=watch&count=true)
 
 {::nomarkdown}
-
 <!-- HTML CODE-->
 <iframe width="60" height="15" src="https://ghbtns.com/github-btn.html?user=hannics&repo=r-likert-results&type=watch&count=true" frameborder="0" allowfullscreen></iframe>
-
-
 {:/}
 
 
