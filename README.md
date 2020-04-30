@@ -11,6 +11,12 @@ Present your survey results with a nice graphic!
 
 ## Getting Started
 
+
+### Prerequisites
+- R installed
+- R package HH 
+- survey results in csv 
+
 ### Bash Script to generate the results of a Likert scale survey with R. ###
 
 * Plots a Likert scale graphic with csv - file
